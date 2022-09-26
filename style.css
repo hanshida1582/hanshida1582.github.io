@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/20220918_192807_0000.png);
+    background-image: url(images/20220926_194649_0000.png);
     background-size: cover;
     background-position: center;
 }
@@ -323,7 +323,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/20220918_205618_0000.png);
+        background-image: url(images/20220926_194419_0000.png);
     }
     .header-text{
         margin-top: 100%;
